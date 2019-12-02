@@ -1,0 +1,6 @@
+framework module Pods_laboratorio13Tests {
+  umbrella header "Pods-laboratorio13Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

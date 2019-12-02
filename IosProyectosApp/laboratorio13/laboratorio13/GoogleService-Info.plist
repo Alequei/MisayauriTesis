@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>318011112653-90e8ht7095tjofsroggpt3losmvjm597.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.318011112653-90e8ht7095tjofsroggpt3losmvjm597</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwVIqwbyDeDovhjTJrECj4i8YNb5JvrmY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>318011112653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.laboratorio13</string>
+	<key>PROJECT_ID</key>
+	<string>laboratorio13-2eea0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laboratorio13-2eea0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:318011112653:ios:bab03e1ca9247a1b963d84</string>
+	<key>DATABASE_URL</key>
+	<string>https://laboratorio13-2eea0.firebaseio.com</string>
+</dict>
+</plist>
