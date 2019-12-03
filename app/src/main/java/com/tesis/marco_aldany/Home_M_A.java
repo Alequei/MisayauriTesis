@@ -24,12 +24,15 @@ public class Home_M_A extends AppCompatActivity {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
                     f = new NotasApp();
+                    getSupportFragmentManager().beginTransaction().replace(R.id.contenedor_id,f).commit();
                     return true;
                 case R.id.navigation_dashboard:
-                    mTextMessage.setText(R.string.title_dashboard);
+                    f = new Reservas_App();
+                    getSupportFragmentManager().beginTransaction().replace(R.id.contenedor_id,f).commit();
                     return true;
                 case R.id.navigation_notifications:
-                    mTextMessage.setText(R.string.title_notifications);
+                    f = new Ubicaion_App();
+                    getSupportFragmentManager().beginTransaction().replace(R.id.contenedor_id,f).commit();
                     return true;
             }
             if (f!= null){
